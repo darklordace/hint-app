@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+
+  background: white;
+}
+
+.App .title {
+  display: block;
+  margin-top: 40px;
+}

@@ -1,0 +1,26 @@
+.hints {
+  text-align: left;
+}
+
+.hint-box {
+  text-align: center;
+  padding: 16px;
+  background: repeating-linear-gradient(
+    45deg,
+    #e8e8e8,
+    #e8e8e8 20px,
+    #f4f4f4 20px,
+    #f4f4f4 40px
+  );
+  border: 1px solid rgba(0, 0, 0, .1);
+  border-radius: .5rem;
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, .2);
+  cursor: pointer;
+}
+
+.hint-name {
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
